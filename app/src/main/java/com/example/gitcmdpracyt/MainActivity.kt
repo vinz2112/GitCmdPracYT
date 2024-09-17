@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
 
             println("LOCAL CHANGE")
 
-            println("CHANGE 3")
+            println("CHANGE 4")
 
             println("THIS LINE WILL BE MERGED")
 
