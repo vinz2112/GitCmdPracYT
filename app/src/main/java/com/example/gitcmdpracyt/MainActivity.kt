@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
 
             println("LOCAL CHANGE")
 
-            println("Experimental")
+            println("CHANGE 1")
 
             GitCmdPracYTTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
