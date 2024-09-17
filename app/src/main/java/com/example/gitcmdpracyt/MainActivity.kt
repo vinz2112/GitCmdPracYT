@@ -21,6 +21,10 @@ class MainActivity : ComponentActivity() {
 
             println("THIS IS CONTAINED IN MY SECOND COMMIT")
 
+            println("LOCAL CHANGE")
+
+            println("Experimental")
+
             GitCmdPracYTTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
