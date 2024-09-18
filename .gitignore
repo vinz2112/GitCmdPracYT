@@ -17,5 +17,5 @@ local.properties
 # '#' is a comment in a .gitignore file T
 my_notes.md
 #.gitignore
-.idea/deploymentTargetSelector.xml
+#.idea/deploymentTargetSelector.xml
 # NB : there's TWO .gitignore files = ??? ... / the app/.gitignore file is just for "/build" T
