@@ -27,6 +27,8 @@ class MainActivity : ComponentActivity() {
 
             println("THIS LINE WILL BE MERGED")
 
+            println("Hello from your friend")
+
             GitCmdPracYTTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
