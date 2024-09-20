@@ -20,11 +20,14 @@ class MainActivity : ComponentActivity() {
         setContent {
 
             println("THIS IS CONTAINED IN MY SECOND COMMIT")
+
             println("LOCAL CHANGE")
+
             println("CHANGE 4")
+
             println("THIS LINE WILL BE MERGED")
+
             println("Hello from your friend")
-            println("3rd *nix revert attempt")
 
             GitCmdPracYTTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
