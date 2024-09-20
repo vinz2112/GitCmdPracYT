@@ -24,8 +24,7 @@ class MainActivity : ComponentActivity() {
             println("CHANGE 4")
             println("THIS LINE WILL BE MERGED")
             println("Hello from your friend")
-            println("3rd *nix revert attempt")
-            println("4th *nix revert attempt")
+            println("5th *nix revert attempt")
 
             GitCmdPracYTTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
