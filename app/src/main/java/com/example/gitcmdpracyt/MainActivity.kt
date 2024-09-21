@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
             println("5th *nix revert attempt")
             println("1st test several commits < origin")
             println("2nd test several commits < origin")
+            println("3rd test several commits < origin")
 
             GitCmdPracYTTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
